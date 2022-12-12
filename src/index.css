@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1d1f27;
+}
+
+.home {
+  background-image: url("./assets/main-bg.png");
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: 100% 100%;
+}
+
+input,
+textarea {
+  background-color: transparent;
+  outline: none;
+}
