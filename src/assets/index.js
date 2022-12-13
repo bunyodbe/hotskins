@@ -7,6 +7,13 @@ import flagRu from "./flag-ru.svg";
 import arrowDown from "./arrow-down.svg";
 import csgo from "./csgo.svg";
 import refresh from "./refresh.svg";
+import search from "./search.svg";
+import fire from "./fire.svg";
+import help from "./help.svg";
+import select from "./select.svg";
+import cardFire from "./cardFire.svg";
+import lock from "./lock.svg";
+import closeDark from "./closedark.svg";
 import c1 from "./c1.png";
 import c2 from "./c2.png";
 import c3 from "./c3.png";
@@ -44,6 +51,13 @@ export {
   arrowDown,
   csgo,
   refresh,
+  search,
+  fire,
+  help,
+  select,
+  cardFire,
+  lock,
+  closeDark,
   c1,
   c2,
   c3,

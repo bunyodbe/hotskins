@@ -8,6 +8,11 @@
   box-sizing: border-box;
 }
 
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #1d1f27;
 }
@@ -23,4 +28,25 @@ input,
 textarea {
   background-color: transparent;
   outline: none;
+}
+
+#hotprice-label {
+  position: relative;
+}
+
+.toggle-icon {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #fff;
+  position: absolute;
+  left: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: all 0.3s;
+}
+
+#hotprice:checked ~ .toggle-icon {
+  left: 20px;
+  background-color: #ed422b;
 }

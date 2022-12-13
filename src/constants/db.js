@@ -31,6 +31,7 @@ export const csgoSkins = [
   {
     id: "id-1",
     price: "13,211 ₽",
+    pr: 13211,
     img: c1,
     type: "Weapon Type",
     name: "Skin Name",
@@ -42,6 +43,7 @@ export const csgoSkins = [
   {
     id: "id-2",
     price: "24,200.64 ₽",
+    pr: 24200.64,
     img: c2,
     type: "Weapon Type",
     name: "Skin Name",
@@ -53,6 +55,7 @@ export const csgoSkins = [
   {
     id: "id-3",
     price: "17,600.32 ₽",
+    pr: 17600.32,
     img: c3,
     type: "Weapon Type",
     name: "Skin Name",
@@ -64,6 +67,7 @@ export const csgoSkins = [
   {
     id: "id-4",
     price: "8,713.21 ₽",
+    pr: 8713.21,
     img: c4,
     type: "Weapon Type",
     name: "Skin Name",
@@ -75,6 +79,7 @@ export const csgoSkins = [
   {
     id: "id-5",
     price: "2,860.21 ₽",
+    pr: 2860.21,
     img: c5,
     type: "Weapon Type",
     name: "Skin Name",
@@ -86,6 +91,7 @@ export const csgoSkins = [
   {
     id: "id-6",
     price: "2,435.12 ₽",
+    pr: 2435.12,
     img: c6,
     type: "Weapon Type",
     name: "Skin Name",
@@ -97,6 +103,7 @@ export const csgoSkins = [
   {
     id: "id-7",
     price: "2,065.84 ₽",
+    pr: 2065.84,
     img: c7,
     type: "Weapon Type",
     name: "Skin Name",
@@ -108,6 +115,7 @@ export const csgoSkins = [
   {
     id: "id-8",
     price: "1,986.12 ₽",
+    pr: 1986.12,
     img: c8,
     type: "Weapon Type",
     name: "Skin Name",
@@ -119,6 +127,7 @@ export const csgoSkins = [
   {
     id: "id-9",
     price: "1,915.12 ₽",
+    pr: 1915.12,
     img: c9,
     type: "Weapon Type",
     name: "Skin Name",
@@ -130,6 +139,7 @@ export const csgoSkins = [
   {
     id: "id-10",
     price: "1,865.32 ₽",
+    pr: 1865.32,
     img: c10,
     type: "Weapon Type",
     name: "Skin Name",
@@ -141,6 +151,7 @@ export const csgoSkins = [
   {
     id: "id-11",
     price: "1,765.42 ₽",
+    pr: 1765.42,
     img: c11,
     type: "Weapon Type",
     name: "Skin Name",
@@ -152,6 +163,7 @@ export const csgoSkins = [
   {
     id: "id-12",
     price: "1,662.12 ₽",
+    pr: 1662.12,
     img: c12,
     type: "Weapon Type",
     name: "Skin Name",
@@ -163,6 +175,7 @@ export const csgoSkins = [
   {
     id: "id-13",
     price: "1,613.54 ₽",
+    pr: 1613.54,
     img: c13,
     type: "Weapon Type",
     name: "Skin Name",
@@ -174,6 +187,7 @@ export const csgoSkins = [
   {
     id: "id-14",
     price: "1,457.32 ₽",
+    pr: 1457.32,
     img: c14,
     type: "Weapon Type",
     name: "Skin Name",
@@ -185,17 +199,19 @@ export const csgoSkins = [
   {
     id: "id-15",
     price: "63,145.32 ₽",
+    pr: 63145.32,
     img: c15,
     type: "Weapon Type",
     name: "Skin Name",
     block: true,
     bestPrice: false,
     rarity: 1,
-    time: "",
+    time: "15 м. 12 с.",
   },
   {
     id: "id-16",
     price: "17,654.64 ₽",
+    pr: 17654.64,
     img: c16,
     type: "Weapon Type",
     name: "Skin Name",
@@ -207,6 +223,7 @@ export const csgoSkins = [
   {
     id: "id-17",
     price: "5,647.11 ₽",
+    pr: 5647.11,
     img: c17,
     type: "Weapon Type",
     name: "Skin Name",
@@ -218,6 +235,7 @@ export const csgoSkins = [
   {
     id: "id-18",
     price: "4,658.64 ₽",
+    pr: 4658.64,
     img: c18,
     type: "Weapon Type",
     name: "Skin Name",
@@ -229,6 +247,7 @@ export const csgoSkins = [
   {
     id: "id-19",
     price: "3,647.34 ₽",
+    pr: 3647.34,
     img: c19,
     type: "Weapon Type",
     name: "Skin Name",
@@ -240,6 +259,7 @@ export const csgoSkins = [
   {
     id: "id-20",
     price: "2,751.21 ₽",
+    pr: 2751.21,
     img: c20,
     type: "Weapon Type",
     name: "Skin Name",
@@ -251,6 +271,7 @@ export const csgoSkins = [
   {
     id: "id-21",
     price: "1,468.11 ₽",
+    pr: 1468.11,
     img: c1,
     type: "Weapon Type",
     name: "Skin Name",
@@ -262,6 +283,7 @@ export const csgoSkins = [
   {
     id: "id-22",
     price: "1,321.15 ₽",
+    pr: 1321.15,
     img: c22,
     type: "Weapon Type",
     name: "Skin Name",
@@ -273,6 +295,7 @@ export const csgoSkins = [
   {
     id: "id-23",
     price: "1,212.54 ₽",
+    pr: 1212.54,
     img: c23,
     type: "Weapon Type",
     name: "Skin Name",
@@ -284,6 +307,7 @@ export const csgoSkins = [
   {
     id: "id-24",
     price: " 1,121.74 ₽",
+    pr: 1121.74,
     img: c24,
     type: "Weapon Type",
     name: "Skin Name",
@@ -295,6 +319,7 @@ export const csgoSkins = [
   {
     id: "id-25",
     price: "594.21 ₽",
+    pr: 594.21,
     img: c25,
     type: "Weapon Type",
     name: "Skin Name",
@@ -306,6 +331,7 @@ export const csgoSkins = [
   {
     id: "id-26",
     price: "165.33 ₽",
+    pr: 165.33,
     img: c26,
     type: "Weapon Type",
     name: "Skin Name",
@@ -315,3 +341,5 @@ export const csgoSkins = [
     time: "15 м. 12 с.",
   },
 ];
+
+export const dotaSkins = [];

@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import { Footer, Navbar } from "./components";
 import { Login } from "./components";
-import { Home, Signup, SelectItems } from "./pages";
+import { Home, Signup, Pruducts } from "./pages";
 
 const App = () => (
   <>
@@ -10,7 +10,7 @@ const App = () => (
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/signup" element={<Signup />} />
-      <Route path="/items" element={<SelectItems />} />
+      <Route path="/pruducts" element={<Pruducts />} />
     </Routes>
     <Footer />
   </>

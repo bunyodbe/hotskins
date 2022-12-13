@@ -1,5 +1,5 @@
 import Signup from "./Signup";
 import Home from "./Home";
-import SelectItems from "./SelectItems";
+import Pruducts from "./Pruducts";
 
-export { Signup, Home, SelectItems };
+export { Signup, Home, Pruducts };
